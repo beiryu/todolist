@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a, a:link, a:active, a:hover{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+body,html{
+    height: 100%;
+}
+.button:hover{
+    color: #DB4C3F;
+    border-color: #DB4C3F;
+}
+.button{
+    border: 1px solid black;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.topic{
+    margin-top: 50px;
+}
+#link{
+    text-decoration: none;
+}
+#link:hover{
+    color: #DB4C3F;
+}
